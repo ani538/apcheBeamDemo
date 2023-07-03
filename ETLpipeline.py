@@ -11,7 +11,7 @@ db_user = 'postgres'
 db_password = 'pass'
 
 # Define the CSV file path
-csv_file = 'Data\dataset.csv'
+csv_file = 'dataset.csv'
 
 
 
